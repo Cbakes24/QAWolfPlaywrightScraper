@@ -1,0 +1,169 @@
+2024-12-07T06:53:46.573Z [INFO]: Loading page 1. Current total articles: 0.
+2024-12-07T06:53:46.585Z [INFO]: Scraped 30 articles on page 1.
+2024-12-07T06:53:47.202Z [INFO]: Loading page 2. Current total articles: 30.
+2024-12-07T06:53:47.224Z [INFO]: Scraped 30 articles on page 2.
+2024-12-07T06:53:47.840Z [INFO]: Loading page 3. Current total articles: 60.
+2024-12-07T06:53:47.864Z [INFO]: Scraped 30 articles on page 3.
+2024-12-07T06:53:48.506Z [INFO]: Loading page 4. Current total articles: 90.
+2024-12-07T06:53:48.526Z [INFO]: Scraped 30 articles on page 4.
+2024-12-07T06:53:48.526Z [WARN]: Trimming final page to 10 articles.
+2024-12-07T06:53:49.158Z [INFO]: Collected 100 articles. Writing to JSON file.
+2024-12-07T06:53:49.161Z [INFO]: JSON file saved: HackerNewsArticles.json
+2024-12-07T06:53:49.162Z [INFO]: Are the first 100 Articles sorted newest to oldest? true
+2024-12-07T06:53:49.162Z [INFO]: Scraping completed. Closing browser.
+2024-12-07T06:53:52.448Z [INFO]: Loading page 1. Current total articles: 0.
+2024-12-07T06:53:52.459Z [INFO]: Scraped 30 articles on page 1.
+2024-12-07T06:53:53.050Z [INFO]: Loading page 2. Current total articles: 30.
+2024-12-07T06:53:53.069Z [INFO]: Scraped 30 articles on page 2.
+2024-12-07T06:53:53.688Z [INFO]: Loading page 3. Current total articles: 60.
+2024-12-07T06:53:53.704Z [INFO]: Scraped 30 articles on page 3.
+2024-12-07T06:53:54.330Z [INFO]: Loading page 4. Current total articles: 90.
+2024-12-07T06:53:54.350Z [INFO]: Scraped 30 articles on page 4.
+2024-12-07T06:53:54.350Z [WARN]: Trimming final page to 10 articles.
+2024-12-07T06:53:55.113Z [INFO]: Collected 100 articles. Writing to JSON file.
+2024-12-07T06:53:55.117Z [INFO]: JSON file saved: HackerNewsArticles.json
+2024-12-07T06:53:55.118Z [INFO]: Are the first 100 Articles sorted newest to oldest? true
+2024-12-07T06:53:55.119Z [INFO]: Scraping completed. Closing browser.
+2024-12-07T06:53:57.879Z [INFO]: Loading page 1. Current total articles: 0.
+2024-12-07T06:53:57.889Z [INFO]: Scraped 30 articles on page 1.
+2024-12-07T06:53:58.529Z [INFO]: Loading page 2. Current total articles: 30.
+2024-12-07T06:53:58.554Z [INFO]: Scraped 30 articles on page 2.
+2024-12-07T06:53:59.151Z [INFO]: Loading page 3. Current total articles: 60.
+2024-12-07T06:53:59.175Z [INFO]: Scraped 30 articles on page 3.
+2024-12-07T06:53:59.792Z [INFO]: Loading page 4. Current total articles: 90.
+2024-12-07T06:53:59.804Z [INFO]: Scraped 30 articles on page 4.
+2024-12-07T06:53:59.804Z [WARN]: Trimming final page to 10 articles.
+2024-12-07T06:54:00.366Z [INFO]: Collected 100 articles. Writing to JSON file.
+2024-12-07T06:54:00.369Z [INFO]: JSON file saved: HackerNewsArticles.json
+2024-12-07T06:54:00.369Z [INFO]: Are the first 100 Articles sorted newest to oldest? true
+2024-12-07T06:54:00.369Z [INFO]: Scraping completed. Closing browser.
+2024-12-07T06:54:02.951Z [INFO]: Loading page 1. Current total articles: 0.
+2024-12-07T06:54:02.963Z [INFO]: Scraped 30 articles on page 1.
+2024-12-07T06:54:03.551Z [INFO]: Loading page 2. Current total articles: 30.
+2024-12-07T06:54:03.566Z [INFO]: Scraped 30 articles on page 2.
+2024-12-07T06:54:04.172Z [INFO]: Loading page 3. Current total articles: 60.
+2024-12-07T06:54:04.194Z [INFO]: Scraped 30 articles on page 3.
+2024-12-07T06:54:04.789Z [INFO]: Loading page 4. Current total articles: 90.
+2024-12-07T06:54:04.804Z [INFO]: Scraped 30 articles on page 4.
+2024-12-07T06:54:04.804Z [WARN]: Trimming final page to 10 articles.
+2024-12-07T06:54:05.402Z [INFO]: Collected 100 articles. Writing to JSON file.
+2024-12-07T06:54:05.405Z [INFO]: JSON file saved: HackerNewsArticles.json
+2024-12-07T06:54:05.405Z [INFO]: Are the first 100 Articles sorted newest to oldest? true
+2024-12-07T06:54:05.406Z [INFO]: Scraping completed. Closing browser.
+2024-12-07T06:54:07.873Z [INFO]: Loading page 1. Current total articles: 0.
+2024-12-07T06:54:07.886Z [INFO]: Scraped 30 articles on page 1.
+2024-12-07T06:54:08.515Z [INFO]: Loading page 2. Current total articles: 30.
+2024-12-07T06:54:08.538Z [INFO]: Scraped 30 articles on page 2.
+2024-12-07T06:54:09.147Z [INFO]: Loading page 3. Current total articles: 60.
+2024-12-07T06:54:09.169Z [INFO]: Scraped 30 articles on page 3.
+2024-12-07T06:54:09.771Z [INFO]: Loading page 4. Current total articles: 90.
+2024-12-07T06:54:09.791Z [INFO]: Scraped 30 articles on page 4.
+2024-12-07T06:54:09.791Z [WARN]: Trimming final page to 10 articles.
+2024-12-07T06:54:10.395Z [INFO]: Collected 100 articles. Writing to JSON file.
+2024-12-07T06:54:10.399Z [INFO]: JSON file saved: HackerNewsArticles.json
+2024-12-07T06:54:10.399Z [INFO]: Are the first 100 Articles sorted newest to oldest? true
+2024-12-07T06:54:10.400Z [INFO]: Scraping completed. Closing browser.
+2024-12-07T06:54:12.375Z [INFO]: Loading page 1. Current total articles: 0.
+2024-12-07T06:54:12.385Z [INFO]: Scraped 30 articles on page 1.
+2024-12-07T06:54:12.976Z [INFO]: Loading page 2. Current total articles: 30.
+2024-12-07T06:54:12.999Z [INFO]: Scraped 30 articles on page 2.
+2024-12-07T06:54:13.592Z [INFO]: Loading page 3. Current total articles: 60.
+2024-12-07T06:54:13.614Z [INFO]: Scraped 30 articles on page 3.
+2024-12-07T06:54:14.239Z [INFO]: Loading page 4. Current total articles: 90.
+2024-12-07T06:54:14.251Z [INFO]: Scraped 30 articles on page 4.
+2024-12-07T06:54:14.252Z [WARN]: Trimming final page to 10 articles.
+2024-12-07T06:54:14.842Z [INFO]: Collected 100 articles. Writing to JSON file.
+2024-12-07T06:54:14.844Z [INFO]: JSON file saved: HackerNewsArticles.json
+2024-12-07T06:54:14.844Z [INFO]: Are the first 100 Articles sorted newest to oldest? true
+2024-12-07T06:54:14.845Z [INFO]: Scraping completed. Closing browser.
+2024-12-07T06:54:35.475Z [INFO]: Loading page 1. Current total articles: 0.
+2024-12-07T06:54:35.485Z [INFO]: Scraped 30 articles on page 1.
+2024-12-07T06:54:36.107Z [INFO]: Loading page 2. Current total articles: 30.
+2024-12-07T06:54:36.123Z [INFO]: Scraped 30 articles on page 2.
+2024-12-07T06:54:36.733Z [INFO]: Loading page 3. Current total articles: 60.
+2024-12-07T06:54:36.757Z [INFO]: Scraped 30 articles on page 3.
+2024-12-07T06:54:37.341Z [INFO]: Loading page 4. Current total articles: 90.
+2024-12-07T06:54:37.363Z [INFO]: Scraped 30 articles on page 4.
+2024-12-07T06:54:37.363Z [WARN]: Trimming final page to 10 articles.
+2024-12-07T06:54:37.971Z [INFO]: Collected 100 articles. Writing to JSON file.
+2024-12-07T06:54:37.975Z [INFO]: JSON file saved: HackerNewsArticles.json
+2024-12-07T06:54:37.976Z [INFO]: Are the first 100 Articles sorted newest to oldest? true
+2024-12-07T06:54:37.976Z [INFO]: Scraping completed. Closing browser.
+2024-12-07T06:54:40.177Z [INFO]: Loading page 1. Current total articles: 0.
+2024-12-07T06:54:40.188Z [INFO]: Scraped 30 articles on page 1.
+2024-12-07T06:54:40.772Z [INFO]: Loading page 2. Current total articles: 30.
+2024-12-07T06:54:40.791Z [INFO]: Scraped 30 articles on page 2.
+2024-12-07T06:54:41.391Z [INFO]: Loading page 3. Current total articles: 60.
+2024-12-07T06:54:41.415Z [INFO]: Scraped 30 articles on page 3.
+2024-12-07T06:54:42.006Z [INFO]: Loading page 4. Current total articles: 90.
+2024-12-07T06:54:42.027Z [INFO]: Scraped 30 articles on page 4.
+2024-12-07T06:54:42.027Z [WARN]: Trimming final page to 10 articles.
+2024-12-07T06:54:42.667Z [INFO]: Collected 100 articles. Writing to JSON file.
+2024-12-07T06:54:42.669Z [INFO]: JSON file saved: HackerNewsArticles.json
+2024-12-07T06:54:42.670Z [INFO]: Are the first 100 Articles sorted newest to oldest? true
+2024-12-07T06:54:42.670Z [INFO]: Scraping completed. Closing browser.
+2024-12-07T07:02:46.694Z [INFO]: Loading page 1. Current total articles: 0.
+2024-12-07T07:02:46.705Z [INFO]: Scraped 30 articles on page 1.
+2024-12-07T07:02:47.299Z [INFO]: Loading page 2. Current total articles: 30.
+2024-12-07T07:02:47.314Z [INFO]: Scraped 30 articles on page 2.
+2024-12-07T07:02:47.920Z [INFO]: Loading page 3. Current total articles: 60.
+2024-12-07T07:02:47.943Z [INFO]: Scraped 30 articles on page 3.
+2024-12-07T07:02:48.565Z [INFO]: Loading page 4. Current total articles: 90.
+2024-12-07T07:02:48.586Z [INFO]: Scraped 30 articles on page 4.
+2024-12-07T07:02:48.586Z [WARN]: Trimming final page to 10 articles.
+2024-12-07T07:02:49.205Z [INFO]: Collected 100 articles. Writing to JSON file.
+2024-12-07T07:02:49.212Z [INFO]: JSON file saved: HackerNewsArticles.json
+2024-12-07T07:02:49.212Z [INFO]: Are the first 100 Articles sorted newest to oldest? true
+2024-12-07T07:02:49.213Z [INFO]: Scraping completed. Closing browser.
+2024-12-07T07:02:51.895Z [INFO]: Loading page 1. Current total articles: 0.
+2024-12-07T07:02:51.907Z [INFO]: Scraped 30 articles on page 1.
+2024-12-07T07:02:52.495Z [INFO]: Loading page 2. Current total articles: 30.
+2024-12-07T07:02:52.517Z [INFO]: Scraped 30 articles on page 2.
+2024-12-07T07:02:53.113Z [INFO]: Loading page 3. Current total articles: 60.
+2024-12-07T07:02:53.135Z [INFO]: Scraped 30 articles on page 3.
+2024-12-07T07:02:53.735Z [INFO]: Loading page 4. Current total articles: 90.
+2024-12-07T07:02:53.758Z [INFO]: Scraped 30 articles on page 4.
+2024-12-07T07:02:53.758Z [WARN]: Trimming final page to 10 articles.
+2024-12-07T07:02:54.373Z [INFO]: Collected 100 articles. Writing to JSON file.
+2024-12-07T07:02:54.376Z [INFO]: JSON file saved: HackerNewsArticles.json
+2024-12-07T07:02:54.377Z [INFO]: Are the first 100 Articles sorted newest to oldest? true
+2024-12-07T07:02:54.377Z [INFO]: Scraping completed. Closing browser.
+2024-12-07T07:02:55.996Z [INFO]: Loading page 1. Current total articles: 0.
+2024-12-07T07:02:56.007Z [INFO]: Scraped 30 articles on page 1.
+2024-12-07T07:02:56.607Z [INFO]: Loading page 2. Current total articles: 30.
+2024-12-07T07:02:56.623Z [INFO]: Scraped 30 articles on page 2.
+2024-12-07T07:02:57.244Z [INFO]: Loading page 3. Current total articles: 60.
+2024-12-07T07:02:57.266Z [INFO]: Scraped 30 articles on page 3.
+2024-12-07T07:02:57.897Z [INFO]: Loading page 4. Current total articles: 90.
+2024-12-07T07:02:57.919Z [INFO]: Scraped 30 articles on page 4.
+2024-12-07T07:02:57.919Z [WARN]: Trimming final page to 10 articles.
+2024-12-07T07:02:58.499Z [INFO]: Collected 100 articles. Writing to JSON file.
+2024-12-07T07:02:58.501Z [INFO]: JSON file saved: HackerNewsArticles.json
+2024-12-07T07:02:58.502Z [INFO]: Are the first 100 Articles sorted newest to oldest? true
+2024-12-07T07:02:58.502Z [INFO]: Scraping completed. Closing browser.
+2025-11-05T22:24:18.608Z [INFO]: Loading page 1. Current total articles: 0.
+2025-11-05T22:24:18.620Z [INFO]: Scraped 30 articles on page 1.
+2025-11-05T22:24:19.232Z [INFO]: Loading page 2. Current total articles: 30.
+2025-11-05T22:24:19.245Z [INFO]: Scraped 30 articles on page 2.
+2025-11-05T22:24:19.798Z [INFO]: Loading page 3. Current total articles: 60.
+2025-11-05T22:24:19.808Z [INFO]: Scraped 30 articles on page 3.
+2025-11-05T22:24:20.376Z [INFO]: Loading page 4. Current total articles: 90.
+2025-11-05T22:24:20.390Z [INFO]: Scraped 30 articles on page 4.
+2025-11-05T22:24:20.390Z [WARN]: Trimming final page to 10 articles.
+2025-11-05T22:24:20.959Z [INFO]: Collected 100 articles. Writing to JSON file.
+2025-11-05T22:24:20.961Z [INFO]: JSON file saved: HackerNewsArticles.json
+2025-11-05T22:24:20.961Z [INFO]: Are the first 100 Articles sorted newest to oldest? true
+2025-11-05T22:24:20.962Z [INFO]: Scraping completed. Closing browser.
+2025-11-05T22:25:11.132Z [INFO]: Loading page 1. Current total articles: 0.
+2025-11-05T22:25:11.145Z [INFO]: Scraped 30 articles on page 1.
+2025-11-05T22:25:11.717Z [INFO]: Loading page 2. Current total articles: 30.
+2025-11-05T22:25:11.740Z [INFO]: Scraped 30 articles on page 2.
+2025-11-05T22:25:12.306Z [INFO]: Loading page 3. Current total articles: 60.
+2025-11-05T22:25:12.328Z [INFO]: Scraped 30 articles on page 3.
+2025-11-05T22:25:12.881Z [INFO]: Loading page 4. Current total articles: 90.
+2025-11-05T22:25:12.901Z [INFO]: Scraped 30 articles on page 4.
+2025-11-05T22:25:12.901Z [WARN]: Trimming final page to 10 articles.
+2025-11-05T22:25:13.466Z [INFO]: Collected 100 articles. Writing to JSON file.
+2025-11-05T22:25:13.469Z [INFO]: JSON file saved: HackerNewsArticles.json
+2025-11-05T22:25:13.470Z [INFO]: Are the first 100 Articles sorted newest to oldest? true
+2025-11-05T22:25:13.470Z [INFO]: Scraping completed. Closing browser.

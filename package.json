@@ -1,0 +1,25 @@
+{
+  "name": "qa_wolf_take_home",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "npm run start",
+    "test": "mocha 'specs/**/*.js'",
+    "playwright": "npx playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.39.0",
+    "winston": "^3.17.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.39.0",
+    "@types/node": "^20.8.9",
+    "chai": "^5.1.2",
+    "mocha": "^11.0.1"
+  }
+}
