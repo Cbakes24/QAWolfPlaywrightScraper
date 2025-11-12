@@ -2,7 +2,6 @@ node_modules/
 /test-results/
 /playwright-report/
 /playwright/.cache/
+# Google Drive OAuth2 credentials (keep secure!)
 credentials.json
 token.json
-playwright-report-screenshot.png
-.env

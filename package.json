@@ -8,7 +8,8 @@
     "start": "npm run start",
     "test": "mocha 'specs/**/*.js'",
     "playwright": "npx playwright test",
-    "playwright:upload": "npx playwright test && node uploadReportScreenshot.js"
+    "auth:google": "node lib/authGoogleDrive.js",
+    "list:drive": "node lib/listDriveFiles.js"
   },
   "keywords": [],
   "author": "",

@@ -2,12 +2,19 @@ import { test, expect } from "@playwright/test";
 // Helper function to parse and fix timestamps
 // Helper function to check if timestamps are sorted (newest to oldest)
 import { timeFix, currentArticlesSort } from ".././helperFunctions";
+import { uploadFailedScreenshot } from "../lib/playwrightScreenshotHook.js";
 
 
 //rather than have this line in each test we can load the page in a beforeEach test
 test.beforeEach(async ({ page }) => {
   await page.goto("https://news.ycombinator.com/newest");
 });
+
+// Upload screenshots to Google Drive when tests fail
+test.afterEach(async ({}, testInfo) => {
+  await uploadFailedScreenshot(testInfo);
+});
+
 test.use({
   headless: true,
   // Increase timeouts to handle slow page loads
@@ -113,4 +120,17 @@ test("articles sorted by date", async ({ page }) => {
     isSorted
   );
   expect(isSorted).toBe(true); // Assert that timestamps are sorted
+});
+
+// Test that intentionally fails to verify screenshot upload to Google Drive
+test("intentional failure test for screenshot upload", async ({ page }) => {
+  // Navigate to Hacker News
+  await page.goto("https://news.ycombinator.com/newest");
+  
+  // Wait for page to load
+  await page.waitForSelector(".athing", { timeout: 10000 });
+  
+  // This assertion will intentionally fail to trigger screenshot capture
+  // The screenshot should be uploaded to "Hacker News Articles" folder in Google Drive
+  await expect(page).toHaveTitle(/This Will Definitely Fail/);
 });
