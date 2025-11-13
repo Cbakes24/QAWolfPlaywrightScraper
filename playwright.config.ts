@@ -56,8 +56,8 @@ export default defineConfig({
     },
     
     /* Timeout settings */
-    actionTimeout: 30000,
-    navigationTimeout: 30000,
+    actionTimeout: 20000,
+    navigationTimeout: 20000,
   },
 
   /* Configure projects for major browsers */

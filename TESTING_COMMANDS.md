@@ -153,3 +153,16 @@ npx playwright codegen https://news.ycombinator.com/newest
 | `npx playwright test --ui` | Run tests with UI mode |
 | `npx playwright test --debug` | Run tests with UI mode |
 | `npx playwright show-report` | View test report |
+
+
+terminal tests
+npx playwright test seasideCinemasTest.spec.ts 
+npx playwright test -g "get book now link home"
+
+
+new stuff
+- fail test screeen shot google api save to gdrive
+- regular booking working
+- discount code working
+- seasonal working
+- fail test screen shot in report
