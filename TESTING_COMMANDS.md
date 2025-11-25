@@ -168,6 +168,16 @@ npx playwright test -g "intentional failure test for screenshot upload"
 
 auth scripts:
 node lib/authGoogleDrive.js
+-----
+The script will:
+Start a local server on port 8080
+Show you the authorization URL
+Open the URL in your browser
+After you authorize, Google redirects to http://localhost:8080
+The local server catches the redirect and extracts the code automatically
+You'll see a success page in your browser
+The token is saved automatically — no need to copy/paste codes
+
 
 new stuff
 - fail test screeen shot google api save to gdrive

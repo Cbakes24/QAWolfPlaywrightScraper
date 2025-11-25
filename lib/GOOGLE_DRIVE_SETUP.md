@@ -37,9 +37,9 @@ This guide will help you set up OAuth2 authentication to automatically upload te
      - Test users: Add your email → "Save and Continue"
    
    - Back to OAuth client creation:
-     - Application type: "Desktop app" (or "Web application")
+     - Application type: "Web application" (recommended) or "Desktop app"
      - Name: "Playwright Screenshot Uploader"
-     - Authorized redirect URIs: `http://localhost` (for web) or leave blank for desktop
+     - Authorized redirect URIs: `http://localhost:8080` (required - the auth script uses this port)
      - Click "Create"
 
 5. **Download Credentials**
@@ -56,12 +56,13 @@ This guide will help you set up OAuth2 authentication to automatically upload te
 
 2. **Follow the prompts:**
    - A URL will be displayed in the terminal
-   - Copy and paste it into your browser
+   - Copy and paste it into your browser (or it may open automatically)
    - Sign in with your Google account
    - Click "Allow" to grant permissions
-   - You'll be redirected to a URL with a code parameter
-   - Copy the entire authorization code from the URL
-   - Paste it back into the terminal when prompted
+   - You'll be automatically redirected to `http://localhost:8080`
+   - The local server will catch the redirect and extract the authorization code
+   - You'll see a success message in your browser
+   - Return to the terminal - authentication will complete automatically
 
 3. **Token saved:**
    - A `token.json` file will be created with your access tokens
