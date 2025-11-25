@@ -156,9 +156,18 @@ npx playwright codegen https://news.ycombinator.com/newest
 
 
 terminal tests
+npx playwright test
+npx playwright show-report 
+   
 npx playwright test seasideCinemasTest.spec.ts 
+npx playwright test -g "should check video playback state after page load"   
 npx playwright test -g "get book now link home"
 
+npx playwright test tests/example.spec.ts
+npx playwright test -g "intentional failure test for screenshot upload"
+
+auth scripts:
+node lib/authGoogleDrive.js
 
 new stuff
 - fail test screeen shot google api save to gdrive
@@ -166,3 +175,17 @@ new stuff
 - discount code working
 - seasonal working
 - fail test screen shot in report
+- fixed the modal blocking on the booking test for safari
+
+New Features 2025
+-Screen Shot of the webpage is taken and then saved to my gdrive using Oauth2
+
+Features I added 2024
+
+-Winston Logger
+-Helper Functions
+-Mocha Test
+-Playwright Test to test various browsers and devices
+-JSON File created with array of 100 articles object
+-scraper log file created
+- extensive comments line by line
